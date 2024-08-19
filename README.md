@@ -1,0 +1,2 @@
+# Testing the Amazon Chronos T5 Model on Inflation Data
+Inspired by my internship at Deutsche Bundesbank I created a little Jupyter Notebook to test the T5-based Chronos AI model on eurozone inflation data. I designed it to be easily modifiable and to showcase some data handling, AI forecasting, plotting , etc. This is still a work in progress and there is some issues in the code I still need to address.
